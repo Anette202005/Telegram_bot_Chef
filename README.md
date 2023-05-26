@@ -1,5 +1,5 @@
 # Телеграм бот рецептов вкусных блюд
-![Интерфейс калькулятора](https://github.com/Anette202005/calculator/blob/master/static/img/calc.png?raw=true)
+![Интерфейс калькулятора](https://github.com/Anette202005/Telegram_bot_Chef/blob/master/static/img/bot.png?raw=true)
 # Код
 ### Шаг 1. Подгрузить библиотеку
 ```
